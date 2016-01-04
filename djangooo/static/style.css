@@ -1,0 +1,16 @@
+html {
+  background: #0c4b33;
+}
+
+body {
+  padding-top: 30px;
+}
+
+h1 {
+  background: url('djangooo.png');
+  height: 100px;
+  margin: 0 auto;
+  overflow: hidden;
+  text-indent: 800px;
+  width: 400px;
+}
